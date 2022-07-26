@@ -1,0 +1,24 @@
+{
+  "name": "frontend_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "concurrently --kill-others \"node ./server.js\" \"cd ./client && npm start\" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react-google-autocomplete": "^2.6.1",
+    "react-input-mask": "^2.0.4"
+  },
+  "devDependencies": {
+    "yup": "^0.32.11"
+  }
+}

@@ -1,0 +1,32 @@
+export const META_GEO_COUNTRIES = '/meta-geo-countries';
+export const META_BUSINESS_SECTOR = '/meta-business-sectors';
+export const META_BUSINESS_INDUSTRY = '/meta-business-industries';
+export const USERS = '/users';
+export const APP_USER_SESSION = '/app-user-sessions';
+export const APP_USER_LOGIN_CREDENTIAL_VERIFY = '/app-user-login-credential-verify';
+export const META_BUSINESS_MINING_TYPES = '/meta-business-mining-types';
+export const META_BUSINESS_MINING_STATUSES = '/meta-business-mining-statuses';
+export const META_PROJECT_DETAIL_SEGMENTS = '/meta-project-detail-segments';
+export const META_PROJECT_DETAIL_DATA_KEYS = '/meta-project-detail-data-keys';
+export const PROJECTS = '/projects';
+export const META_PROJECT_PHASES = '/meta-project-phases';
+export const META_MATERIAL_ISSUES_CATEGORIES = '/meta-material-issue-categories';
+export const META_MATERIAL_ISSUES = '/meta-material-issues';
+export const PROJECT_DETAILS = '/project-details';
+export const PROJECT_SCENARIOS = '/project-scenarios';
+export const META_BUSINESS_MINING_PRODUCTS = '/meta-business-mining-products';
+export const META_UNIT_OF_PHYSICAL_MEASURE = '/meta-unit-of-physical-measures';
+export const PROJECT_PHASE_DURATIONS = '/project-phase-durations';
+export const META_MATERIAL_ISSUE_DATA_ALLOWED_VALUES_LISTS_API = '/meta-material-issue-data-allowed-value-lists';
+export const PROJECT_MATERIAL_ISSUE_DATA = '/project-material-issue-data';
+export const PROJECT_MEMBERS = '/project-members';
+export const GHG_EMISSIONS_DATA = '/ghg-emissions-data';
+export const DASHBOARD_DATA = '/dashboard-data';
+export const WATER_CALCULATE = '/water-calculate';
+export const META_MATERIAL_ISSUE_CHILD_LEVEL = '/meta-material-issue-child-level';
+export const META_MATERIAL_ISSUE_SEGMENT_ALLOWED_VALUE_LISTS = '/meta-material-issue-segment-allowed-value-lists';
+
+// not used === v ===
+export const META_MATERIAL_ISSUE_DATA_KEYS_API = '/meta-material-issue-data-keys';
+export const PROJECT_MATERIAL_ISSUE_DATA_OUTPUT = '/project-material-issue-data-output';
+export const PROJECT_DASHBOARD_DISPLAY = '/water-calculator';
